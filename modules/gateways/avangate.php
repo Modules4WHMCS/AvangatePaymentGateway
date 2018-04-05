@@ -3,9 +3,6 @@
 // Define module version for release build tool
 //MODULE_VERSION,'1.0';
 
-
-
-
 use WHMCS\Database\Capsule;
 
 function avangate_config() 
